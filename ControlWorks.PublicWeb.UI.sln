@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlWorks.PublicWeb.UI", "ControlWorks.PublicWeb.UI\ControlWorks.PublicWeb.UI.csproj", "{A453067C-FBA7-44F4-8229-7B3BE25BEB79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A453067C-FBA7-44F4-8229-7B3BE25BEB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A453067C-FBA7-44F4-8229-7B3BE25BEB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A453067C-FBA7-44F4-8229-7B3BE25BEB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A453067C-FBA7-44F4-8229-7B3BE25BEB79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F624CEA-A2DC-430E-AA55-17A1D50080CE}
+	EndGlobalSection
+EndGlobal
